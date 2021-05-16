@@ -1,6 +1,6 @@
 {
   "name": "serverless-env-obj",
-  "version": "1.0.0-rc1",
+  "version": "1.0.0-rc4",
   "description": "Serverless environment object encoder.",
   "main": "dist/index.js",
   "scripts": {
@@ -9,6 +9,8 @@
     "prettier": "npx prettier --config .prettierrc ./src/**/*.ts ./tests/**/*.ts --write",
     "build": "npx tsc"
   },
+  "author": "Gary McLean Hall <gary@adaptivecode.com>",
+  "license": "MIT",
   "devDependencies": {
     "@types/jest": "^26.0.23",
     "@types/node": "^15.3.0",
@@ -40,6 +42,5 @@
     "serverless",
     "environment",
     "object"
-  ],
-  "license": "MIT"
+  ]
 }
