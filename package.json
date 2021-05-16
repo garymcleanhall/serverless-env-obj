@@ -2,7 +2,7 @@
   "name": "serverless-env-obj",
   "version": "1.0.0-rc1",
   "description": "Serverless environment object encoder.",
-  "main": "dist/src/index.js",
+  "main": "dist/index.js",
   "scripts": {
     "test": "npx jest tests/",
     "lint": "npx eslint . --ext ts",
