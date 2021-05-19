@@ -1,6 +1,6 @@
 {
   "name": "serverless-env-obj",
-  "version": "1.0.0-rc4",
+  "version": "1.0.0",
   "description": "Serverless environment object encoder.",
   "main": "dist/index.js",
   "repository": {
