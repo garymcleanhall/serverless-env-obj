@@ -3,6 +3,10 @@
   "version": "1.0.0-rc4",
   "description": "Serverless environment object encoder.",
   "main": "dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garymcleanhall/serverless-env-obj.git"
+  },
   "scripts": {
     "test": "npx jest tests/",
     "lint": "npx eslint . --ext ts",
